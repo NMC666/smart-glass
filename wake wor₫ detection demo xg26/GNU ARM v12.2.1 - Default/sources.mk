@@ -1,0 +1,92 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+S79_SRCS := 
+C++M_SRCS := 
+ASM_SRCS := 
+CPP_SRCS := 
+S79_UPPER_SRCS := 
+S_UPPER_SRCS := 
+O_SRCS := 
+C_UPPER_SRCS := 
+CXX_SRCS := 
+CCM_SRCS := 
+C++_SRCS := 
+OBJ_SRCS := 
+S_SRCS := 
+CC_SRCS := 
+C_SRCS := 
+CXXM_SRCS := 
+CC_DEPS := 
+C++_DEPS := 
+CCM_DEPS := 
+EXECUTABLES := 
+OBJS := 
+C_UPPER_DEPS := 
+CXX_DEPS := 
+CXXM_DEPS := 
+C++M_DEPS := 
+C_DEPS := 
+CPP_DEPS := 
+
+# Every subdirectory with source files must be described here
+SUBDIRS := \
+aiml_2.1.3/microfrontend/lib \
+aiml_2.1.3/src/dsp \
+aiml_2.1.3/src/features/audio \
+aiml_2.1.3/src/kernels/mvp1 \
+aiml_2.1.3/src/tflite \
+aiml_2.1.3/src/utils \
+aiml_2.1.3/third_party/tflite-micro/tensorflow/lite/micro/kernels/cmsis_nn \
+. \
+autogen \
+simplicity_sdk_2025.6.3/hardware/board/src \
+simplicity_sdk_2025.6.3/hardware/driver/configuration_over_swo/src \
+simplicity_sdk_2025.6.3/hardware/driver/mic/src \
+simplicity_sdk_2025.6.3/hardware/driver/mx25_flash_shutdown/src/sl_mx25_flash_shutdown_eusart \
+simplicity_sdk_2025.6.3/platform/CMSIS/RTOS2/Source \
+simplicity_sdk_2025.6.3/platform/Device/SiliconLabs/EFR32MG26/Source \
+simplicity_sdk_2025.6.3/platform/common/src \
+simplicity_sdk_2025.6.3/platform/compute/driver/mvp/src \
+simplicity_sdk_2025.6.3/platform/compute/math/mvp/src \
+simplicity_sdk_2025.6.3/platform/compute/math/src \
+simplicity_sdk_2025.6.3/platform/compute/nn/mvp/src \
+simplicity_sdk_2025.6.3/platform/compute/nn/src \
+simplicity_sdk_2025.6.3/platform/compute/util/src \
+simplicity_sdk_2025.6.3/platform/driver/debug/src \
+simplicity_sdk_2025.6.3/platform/driver/gpio/src \
+simplicity_sdk_2025.6.3/platform/driver/leddrv/src \
+simplicity_sdk_2025.6.3/platform/emdrv/dmadrv/src \
+simplicity_sdk_2025.6.3/platform/emlib/src \
+simplicity_sdk_2025.6.3/platform/micrium_os/common/source/collections \
+simplicity_sdk_2025.6.3/platform/micrium_os/common/source/common \
+simplicity_sdk_2025.6.3/platform/micrium_os/common/source/kal \
+simplicity_sdk_2025.6.3/platform/micrium_os/common/source/lib \
+simplicity_sdk_2025.6.3/platform/micrium_os/common/source/logging \
+simplicity_sdk_2025.6.3/platform/micrium_os/common/source/platform_mgr \
+simplicity_sdk_2025.6.3/platform/micrium_os/common/source/ring_buf \
+simplicity_sdk_2025.6.3/platform/micrium_os/common/source/rtos \
+simplicity_sdk_2025.6.3/platform/micrium_os/cpu/source \
+simplicity_sdk_2025.6.3/platform/micrium_os/kernel/source \
+simplicity_sdk_2025.6.3/platform/micrium_os/ports/source/generic \
+simplicity_sdk_2025.6.3/platform/micrium_os/ports/source/gnu \
+simplicity_sdk_2025.6.3/platform/peripheral/src \
+simplicity_sdk_2025.6.3/platform/service/clock_manager/src \
+simplicity_sdk_2025.6.3/platform/service/device_init/src \
+simplicity_sdk_2025.6.3/platform/service/device_manager/clocks \
+simplicity_sdk_2025.6.3/platform/service/device_manager/devices \
+simplicity_sdk_2025.6.3/platform/service/device_manager/src \
+simplicity_sdk_2025.6.3/platform/service/hfxo_manager/src \
+simplicity_sdk_2025.6.3/platform/service/interrupt_manager/src \
+simplicity_sdk_2025.6.3/platform/service/iostream/src \
+simplicity_sdk_2025.6.3/platform/service/memory_manager/src \
+simplicity_sdk_2025.6.3/platform/service/power_manager/src/common \
+simplicity_sdk_2025.6.3/platform/service/power_manager/src/sleep_loop \
+simplicity_sdk_2025.6.3/platform/service/sl_main/src/rtos \
+simplicity_sdk_2025.6.3/platform/service/sl_main/src \
+simplicity_sdk_2025.6.3/platform/service/sleeptimer/src \
+simplicity_sdk_2025.6.3/platform/service/udelay/src \
+simplicity_sdk_2025.6.3/util/third_party/printf \
+simplicity_sdk_2025.6.3/util/third_party/printf/src \
+

@@ -1,0 +1,5 @@
+2026-05-13 23:25:46,309 - root - DEBUG - Input directory: C:\Users\Cai\SimplicityStudio\v5_workspace\ml_audio_classifier\config\tflite
+2026-05-13 23:25:46,309 - root - DEBUG - Output directory: C:\Users\Cai\AppData\Local\Temp\apack_aiml.mvp-compiler5685784853360013575\output
+2026-05-13 23:25:46,310 - root - DEBUG - Part Number: efr32mg26b510f3200im68
+2026-05-13 23:25:46,311 - root - DEBUG - Found tflite file: C:\Users\Cai\SimplicityStudio\v5_workspace\ml_audio_classifier\config\tflite\kws_mltk.tflite
+2026-05-13 23:25:46,311 - root - DEBUG - Board platform selected: efr32
