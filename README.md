@@ -108,3 +108,11 @@ Extract object from transcript using Ollama (standalone):
 ```bash
 python -m voice.ollama_object_extractor --text "lấy giúp tôi cái cốc ở trên bàn"
 ```
+
+## Demo
+
+<video src="wake_word_detection_demo_xg26.mp4" controls="controls" style="max-width: 100%;">
+  Your browser does not support the video tag.
+</video>
+
+*(If the video does not play above, [click here to download/view the demo](wake_word_detection_demo_xg26.mp4))*
